@@ -1,0 +1,49 @@
+Quem pintou a 'Mona Lisa'?,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Claude Monet,c,fácil
+Qual o país com a maior população do mundo em 2023?,Índia,China,Estados Unidos,Rússia,a,fácil
+Em que ano terminou a Segunda Guerra Mundial?,1914,1945,1939,1950,b,fácil
+Qual é o elemento químico representado pelo símbolo 'Au'?,Prata,Cobre,Ouro,Ferro,c,fácil
+Quantos continentes existem na Terra?,5,6,7,8,c,fácil
+Qual é a capital da França?,Londres,Berlim,Paris,Madrid,c,fácil
+Quem escreveu 'Dom Casmurro'?,Jorge Amado,Machado de Assis,Clarice Lispector,Monteiro Lobato,b,fácil
+Qual o maior oceano da Terra?,Atlântico,Índico,Glacial Ártico,Pacífico,d,fácil
+Qual a principal fonte de energia das plantas?,Luz solar,Solo,Água,Vento,a,fácil
+Qual o nome da primeira mulher a ganhar um Prêmio Nobel?,Marie Curie,Rosa Parks,Malala Yousafzai,Indira Gandhi,a,médio
+Qual é o rio mais longo do mundo?,Rio Amazonas,Rio Nilo,Rio Mississipi,Rio Yangtzé,a,médio
+Em que país se originou o Renascimento?,França,Itália,Grécia,Alemanha,b,médio
+Qual é a unidade de medida da força no Sistema Internacional?,Watt,Joule,Newton,Pascal,c,médio
+Qual o livro mais vendido do mundo depois da Bíblia?,Dom Quixote,Harry Potter,O Pequeno Príncipe,Um Conto de Duas Cidades,a,médio
+Quem descobriu a penicilina?,Albert Einstein,Alexander Fleming,Isaac Newton,Louis Pasteur,b,médio
+Qual é o animal terrestre mais rápido do mundo?,Leão,Antílope,Guepardo,Cavalo,c,médio
+Quantos ossos tem o corpo humano adulto?,150,206,300,250,b,médio
+Qual é a capital do Japão?,Pequim,Seul,Bangkok,Tóquio,d,fácil
+Quem foi o primeiro homem a pisar na Lua?,Buzz Aldrin,Yuri Gagarin,Neil Armstrong,Michael Collins,c,fácil
+Qual é a montanha mais alta do mundo?,K2,Monte Everest,Fuji,Aconcágua,b,fácil
+A que temperatura a água ferve (ao nível do mar)?,50°C,80°C,100°C,120°C,c,fácil
+Qual órgão do corpo humano é responsável por bombear o sangue?,Pulmão,Fígado,Coração,Rim,c,fácil
+Qual a moeda oficial do Reino Unido?,Dólar,Euro,Libra Esterlina,Iene,c,fácil
+Em que continente fica o Deserto do Saara?,Ásia,África,Oceania,América do Sul,b,fácil
+Qual o nome do processo de transformação de lagarta em borboleta?,Metamorfose,Simbiose,Fotossíntese,Osmose,a,fácil
+Quem é o autor de 'O Pequeno Príncipe'?,Antoine de Saint-Exupéry,Victor Hugo,Charles Dickens,Lewis Carroll,a,fácil
+Qual o menor país do mundo?,Mônaco,Vaticano,Nauru,San Marino,b,fácil
+Qual gás é essencial para a respiração humana?,Hidrogênio,Nitrogênio,Oxigênio,Gás Carbônico,c,fácil
+Em que ano o Brasil foi descoberto pelos portugueses?,1492,1500,1580,1600,b,fácil
+Qual é a fórmula química da água?,CO2,NaCl,H2O,O2,c,fácil
+Quem pintou o teto da Capela Sistina?,Donatello,Michelangelo,Rafael,Bernini,b,médio
+Qual o metal que é líquido à temperatura ambiente?,Mercúrio,Estanho,Chumbo,Alumínio,a,médio
+Qual é a camada mais externa da Terra?,Manto,Núcleo,Crosta,Litosfera,c,médio
+Quem inventou a lâmpada elétrica?,Nikola Tesla,Thomas Edison,Graham Bell,Benjamin Franklin,b,médio
+Em que guerra aconteceu a Batalha de Stalingrado?,Primeira Guerra Mundial,Guerra Civil Americana,Segunda Guerra Mundial,Guerra do Vietnã,c,médio
+Qual é o maior deserto do mundo (total)?,Saara,Gobi,Antártida,Atacama,c,difícil
+Qual a principal função dos glóbulos vermelhos?,Combater infecções,Transportar oxigênio,Coagular o sangue,Produzir hormônios,b,médio
+Qual o nome da teoria de Charles Darwin sobre a evolução?,Criacionismo,Big Bang,Seleção Natural,Panspermia,c,fácil
+Quantos minutos tem uma hora?,30,60,100,120,b,fácil
+Qual o maior estado do Brasil em extensão territorial?,São Paulo,Minas Gerais,Amazonas,Bahia,c,médio
+Qual país sediou as Olimpíadas de 2016?,China,Brasil,Japão,Reino Unido,b,fácil
+Quem é conhecido como o 'Rei do Pop'?,Elvis Presley,Michael Jackson,Prince,Freddie Mercury,b,fácil
+Qual planeta é conhecido como o 'Planeta Vermelho'?,Vênus,Marte,Júpiter,Mercúrio,b,fácil
+Qual a capital da Austrália?,Sydney,Melbourne,Camberra,Perth,c,médio
+Quantos lados tem um heptágono?,6,7,8,9,b,médio
+Quem escreveu 'A Divina Comédia'?,Dante Alighieri,Homero,Shakespeare,Virgílio,a,difícil
+Qual o componente principal do Sol?,Hélio,Oxigênio,Hidrogênio,Carbono,c,difícil
+Qual foi a primeira civilização a usar a escrita?,Egípcios,Sumérios,Chineses,Gregos,b,difícil
+Qual o nome do maior osso do corpo humano?,Rádio,Tíbia,Fêmur,Úmero,c,fácil
