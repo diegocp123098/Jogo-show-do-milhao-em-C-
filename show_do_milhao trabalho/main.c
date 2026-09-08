@@ -13,9 +13,6 @@
 #define MAX_ERROS (VIDAS_INICIAIS + 1) 
 #define RODADA_CHECKPOINT 2            
 
-//Trabalho de Estrutura de dados: Diego Pinheiro e João Barão
-//Show do milhão
-
 void ler_linha(char *destino, int tamanho_max)
 {
     char temp[256];
